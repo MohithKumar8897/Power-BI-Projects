@@ -28,7 +28,7 @@ This project analyzes Uber trip data to extract actionable insights about user b
 
 - [🗂 Overview Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20overview%20Dashboard.png)
 
-- ![Overview Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Time%20Analysis.png)
+- <a href = "https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Time%20Analysis.png">Overview Dashboard</a> 
 
 - [⏱ Time Analysis Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Time%20Analysis.png)  
   *(Displays hourly and daily trip trends)*
