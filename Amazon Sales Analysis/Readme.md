@@ -45,17 +45,6 @@ Amazon aims to optimize product sales and customer engagement by understanding s
 - **Review Analysis**: Correlation between review counts and sales performance.
 - **Interactive Features**: Slicers, tooltips, and drill-through capabilities for detailed exploration.
 
-### 🔍 Sample Visuals
-
-#### ➤ Sales by Month
-![Sales By Month](https://github.com/MohithKumar8897/Power-BI-Projects/raw/main/Amazon%20Sales%20Analysis/Dashboard%20.png)
-
-#### ➤ Sales by Product Category
-![Sales by Category](https://github.com/MohithKumar8897/Power-BI-Projects/raw/main/Amazon%20Sales%20Analysis/Dashboard%20.png)
-
-#### ➤ Top Product Reviews & Sales
-![Top Products](https://github.com/MohithKumar8897/Power-BI-Projects/raw/main/Amazon%20Sales%20Analysis/Dashboard%20.png)
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -73,24 +62,6 @@ Amazon aims to optimize product sales and customer engagement by understanding s
 - High review counts often correlate with higher sales, indicating the importance of customer feedback.
 - Sales exhibit clear seasonal trends, with peaks during specific months.
 - Weekly patterns reveal opportunities for optimized marketing and stock planning.
-
----
-
-## 🚀 How to Use
-
-1. Download the [PBIX File](https://github.com/MohithKumar8897/Power-BI-Projects/raw/main/Amazon%20Sales%20Analysis/Amazon%20Sales%20Analysis.pbix)
-2. Open it using **Power BI Desktop**
-3. Use the slicers to filter by product category and quarter
-4. Explore each chart and gain insights on trends and performance
-
----
-
-## 📬 Contact
-
-For any queries or feedback, feel free to reach out:
-
-- **GitHub**: [@MohithKumar8897](https://github.com/MohithKumar8897)
-- **Email**: [Your Email Address Here]
 
 ---
 
