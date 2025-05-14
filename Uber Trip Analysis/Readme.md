@@ -1,119 +1,113 @@
-# Uber-Trip-Analysis-Powerbi-Project-
+# 🚖 Uber Trip Analysis – Power BI Project
 
-# Objective
+## 📌 Objective
 
-->Analyze Uber trip data to extract actionable insights.
+This project analyzes Uber trip data to extract actionable insights about user behavior, trip patterns, and vehicle preferences. The aim is to create a dynamic Power BI dashboard that enables data-driven decision-making.
 
-->Understand customer trip behavior, vehicle preference, and trip patterns.
+---
 
-->Build an interactive dashboard for data-driven decision-making.
+## 📁 Datasets Used
 
-# Datasets used
+- [📍 Location Table dataset](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Location%20Table.xlsx)
+- [🚗 Trip Details](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Trip%20Details.xlsx)
 
-- <a href = "https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Location%20Table.xlsx">Location Table dataset</a>
+---
 
-- <a href = "https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Trip%20Details.xlsx">Trip Details</a>
+## 📊 Key Performance Indicators (KPIs)
 
-## Question KPI's
+1. **Total Bookings** – Number of trips booked
+2. **Total Booking Value** – Total revenue generated
+3. **Average Booking Value** – Average revenue per trip
+4. **Total Trip Distance** – Total distance covered
+5. **Average Trip Distance** – Average distance per trip
+6. **Average Trip Time** – Average trip duration
 
-1.	Total Bookings – How many trips were booked over a given period?
-2.	Total Booking Value – What is the total revenue generated from all bookings?
-3.	Average Booking Value – What is the average revenue per booking?
-4.	Total Trip Distance – What is the total distance covered by all trips?
-5.	Average Trip Distance – How far are customers traveling on average per trip?
-6.	Average Trip Time – What is the average duration of trips?
+---
 
-# Dashboard Interaction 
--<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20overview%20Dashboard.png">Overview Dashbaord </a>
+## 📈 Dashboards
 
-![Uber Data Analysis overview Dashboard](https://github.com/user-attachments/assets/3ea64fe1-e153-4793-94a5-e13cd489ff8d)
+- [🗂 Overview Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20overview%20Dashboard.png)  
+  ![Overview Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20overview%20Dashboard.png)
 
+- [⏱ Time Analysis Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Time%20Analysis.png)  
+  *(Displays hourly and daily trip trends)*
 
--<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Time%20Analysis.png">Time Analysis Dashboard </a>
+- [🔍 Detailed Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Detailes%20Dashboard.png)  
+  ![Detailed Dashboard](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Uber%20Data%20Analysis%20Detailes%20Dashboard.png)
 
-![Uber Data Analysis Time Analysis](https://github.com/user-attachments/assets/c1519337-a15b-4cf6-9381-99c47028e285)
+---
 
--<a href ="https://github.com/MohithKumar8897/Uber-Trip-Analysis-Powerbi-Project-/blob/main/Uber%20Data%20Analysis%20Detailes%20Dashboard.png"> Details Dashboard </a>
+## 📥 Power BI File
 
-![Uber Data Analysis Detailes Dashboard](https://github.com/user-attachments/assets/e4316d3c-f81f-4fb0-b2cc-31dc76748e70)
+- [📁 Download PBIX File](https://github.com/MohithKumar8897/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/Updated%20Capstone%20project%201.pbix)
 
-# **Insights from my project**
+---
 
-## 1. General Overview
+## 🔍 Key Insights
 
-->Total Bookings: 22.2K trips
+### 1. General Metrics
 
-->Total Booking Value: $579K
+- **Total Bookings:** 22.2K  
+- **Total Booking Value:** $579K  
+- **Average Booking Value:** $26  
+- **Total Distance:** 156K miles  
+- **Average Distance:** 7 miles  
+- **Average Time:** 27 minutes  
 
-->Average Booking Amount: $26
+✅ **Insight:** June 2024 showed strong trip activity with steady distances and durations.
 
-->Total Trip Distance: 156K miles
+---
 
-->Average Trip Distance: 7 miles
+### 2. Payment Preference
 
-->Average Trip Time: 27 minutes
+- Uber Pay: 66%  
+- Cash: 33%  
+- Others: Negligible  
 
-✅ Insight: Uber services during June 2024 had healthy booking volumes and consistent average trip distances and times.
+✅ **Insight:** High digital payment usage implies strong app engagement.
 
-## 2. Payment Type Analysis
+---
 
-->Most Preferred Payment:
+### 3. Day vs Night Trips
 
-->Uber Pay (66% of payments)
+- Day: 57.36%  
+- Night: 42.64%  
 
-->Cash (33%)
+✅ **Insight:** Significant travel demand exists both day and night, slightly skewed toward daytime.
 
-->Amazon Pay and Google Pay were negligible.
+---
 
-✅ Insight: Majority of customers preferred digital payments (Uber Pay), suggesting high app engagement.
+### 4. Popular Locations
 
-## 3. Trip Type (Day vs Night)
+- **Top Pickup:** LaGuardia Airport  
+- **Top Drop-off:** East Harlem South  
+- **Farthest Trip:** 144.1 miles (Lower East Side → Crown Heights North)
 
-->Day Trips: 57.36% (12.8K trips)
+✅ **Insight:** Airports and residential zones are key trip hubs.
 
-->Night Trips: 42.64% (9.5K trips)
+---
 
-✅ Insight: Daytime travel was slightly higher, but night trips still form a significant part (~43%) of total trips.
+### 5. Vehicle Type Analysis
 
-## 4. Pickup and Drop-off Points
+- **Top Vehicle:** UberX  
+  - Bookings: 8,267  
+  - Revenue: $217,593  
 
-->Most Frequent Pickup Location: LaGuardia Airport
+✅ **Insight:** UberX balances cost and comfort—most preferred by users.
 
-->Most Frequent Drop-off Location: East Harlem South
+---
 
-## Farthest Trip Recorded:
+### 6. Time-Based Trends
 
-->From Lower East Side to Crown Heights North (144.1 miles)
+- **Peak Hours:** 9 AM – 6 PM  
+- **Active Days:** Weekends (Sat/Sun) and Wednesday mid-week spike  
 
-✅ Insight: Airports and urban residential areas dominate Uber pickups and drop-offs, important for targeting promotions.
+✅ **Insight:** Most demand occurs during mid-day and on weekends, indicating both commuting and leisure usage.
 
-## 5. Vehicle Type Analysis
+---
 
-->Top Performing Vehicle: UberX
+## 📌 Conclusion
 
-->Total Bookings: 8,267
+This Power BI project provides deep insight into Uber trip dynamics for June 2024. It helps in understanding customer behavior, optimizing fleet management, and guiding promotional strategies.
 
-->Total Booking Value: $217,593
-
-->Other popular types: Uber Comfort, UberXL, Uber Green, Uber Black.
-
-✅ Insight: UberX is the most booked vehicle type, balancing affordability and service quality.
-
-## 6. Time Analysis
-
-->Peak Booking Hours:
-9 AM to 6 PM (highest bookings)
-
-->Most Active Days:
-
-Saturday and Sunday show the highest trip distances.
-
-Mid-week (Wednesday) shows a slight increase too.
-
-✅ Insight: Weekends and mid-day periods are the busiest times for Uber services.
-
-## 7. Detailed Observations
-
-->Booking trends show a steady increase toward the end of the month.
-
-->Total trip distance spikes on Saturdays and Sundays, indicating leisure or long-distance travel on weekends.
+---
